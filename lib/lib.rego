@@ -1,4 +1,4 @@
-package libraries.test_lib_data
+package libraries.test_lib_data.lib
 
 test := true if {
   true
